@@ -1,0 +1,147 @@
+{
+    "testuser": {
+        "password": "123",
+        "goals": [
+            {
+                "id": "g1",
+                "name": "Exercise 3 times a week",
+                "description": "Go for a 30-minute walk or jog every Monday, Wednesday, and Friday.",
+                "status": "In Progress",
+                "due_date": "2025-12-31"
+            },
+            {
+                "id": "g2",
+                "name": "Read one book per month",
+                "description": "Finish at least one non-fiction book related to personal development.",
+                "status": "In Progress",
+                "due_date": "2025-12-31"
+            },
+            {
+                "id": "g3",
+                "name": "Practice mindfulness daily",
+                "description": "Meditate for 10 minutes each morning.",
+                "status": "Completed",
+                "completed_date": "2025-06-30"
+            }
+        ],
+        "moods": [
+            {
+                "date": "2025-07-20",
+                "mood": "happy",
+                "notes": "Had a great weekend with friends."
+            },
+            {
+                "date": "2025-07-22",
+                "mood": "neutral",
+                "notes": "Busy at work, feeling okay."
+            },
+            {
+                "date": "2025-07-24",
+                "mood": "stressed",
+                "notes": "Deadline looming, feeling a lot of pressure."
+            },
+            {
+                "date": "2025-07-25",
+                "mood": "calm",
+                "notes": "Finished the big project, feeling relieved and peaceful."
+            },
+            {
+                "date": "2025-07-26",
+                "mood": "energized",
+                "notes": "Woke up feeling refreshed and ready for the day!"
+            }
+        ],
+        "journals": [
+            {
+                "date": "2025-07-20",
+                "content": "Today I spent some quality time with my family. We went to the park and had a picnic. It felt really good to disconnect from work and just enjoy the moment. I felt a deep sense of connection and gratitude."
+            },
+            {
+                "date": "2025-07-22",
+                "content": "Work has been really demanding lately. I'm struggling to balance everything and finding myself feeling a bit overwhelmed. I need to remember to take breaks and not push myself too hard. Maybe I should review my task list tomorrow."
+            },
+            {
+                "date": "2025-07-24",
+                "content": "The stress from work is really getting to me. I had a difficult conversation with my manager today, and I'm feeling quite discouraged. I'm questioning if I'm even capable of handling this much responsibility. It's hard to stay positive when things feel so heavy."
+            },
+            {
+                "date": "2025-07-25",
+                "content": "Huge relief! The big project is finally done. I felt a wave of calm wash over me as I submitted it. Now I can finally relax a bit and focus on my well-being. I'm proud of pushing through, even when it was tough."
+            }
+        ],
+        "chat_history": [
+            {
+                "role": "user",
+                "content": "Summarize my goals."
+            },
+            {
+                "role": "assistant",
+                "content": "Based on the data, you have three goals:\n\n1. **Exercise 3 times a week**: You aim to go for a 30-minute walk or jog every Monday, Wednesday, and Friday.\n2. **Read one book per month**: You want to finish at least one non-fiction book related to personal development by the end of the year (2025-12-31).\n3. **Practice mindfulness daily**: You've already completed this goal, as you've meditated for 10 minutes each morning until June 30th, 2025.\n\nHow do these goals currently align with your priorities and progress?"
+            },
+            {
+                "role": "user",
+                "content": "What's my recent mood trend?"
+            },
+            {
+                "role": "assistant",
+                "content": "Based on your recent mood tracker entries, it seems like you've been experiencing a mix of emotions. Here's a summary:\n\n* On July 20th, you felt happy, with notes mentioning a great weekend with friends.\n* On July 22nd, you felt neutral, with notes about being busy at work and feeling okay.\n* On July 24th, you felt stressed, with notes about a difficult conversation with your manager and feeling discouraged.\n* On July 25th, you felt calm, with notes about finishing a big project and feeling relieved and peaceful.\n* And most recently, on July 26th, you felt energized, with notes about waking up feeling refreshed and ready for the day!\n\nIt looks like you've been experiencing some ups and downs, but overall, your mood seems to be shifting towards more positive emotions. What do you think might be contributing to this trend?"
+            },
+            {
+                "role": "user",
+                "content": "Tell me about my recent journal entries."
+            },
+            {
+                "role": "assistant",
+                "content": "Based on the data, your recent journal entries are:\n\n* July 22: You wrote about feeling overwhelmed at work and struggling to balance everything. You mentioned needing to remember to take breaks and not push yourself too hard.\n* July 24: You wrote about feeling stressed and discouraged after a difficult conversation with your manager. You questioned whether you're capable of handling the responsibilities.\n* July 25: You wrote about feeling a huge sense of relief after completing a big project. You felt proud of yourself for pushing through and were able to relax and focus on your well-being.\n\nIt seems like you've been experiencing some challenges at work, but also acknowledging the importance of self-care and taking breaks. You've also been celebrating small victories and acknowledging your own resilience.\n\nWhat do you think you can learn from these journal entries? Are there any patterns or themes that stand out to you?"
+            },
+            {
+                "role": "user",
+                "content": "Give me a general motivational message."
+            },
+            {
+                "role": "assistant",
+                "content": "Here's a message to help boost your motivation:\n\n\"Hey there! I wanted to remind you that you're capable of overcoming any obstacle and achieving your goals. You've already made progress and completed one of your goals, and that's something to be incredibly proud of! It's okay to feel overwhelmed or stressed, but don't let that stop you from moving forward. Remember to take breaks, prioritize self-care, and celebrate your small victories along the way. You got this! You're strong, resilient, and capable of achieving your dreams. Keep pushing forward, and don't lose sight of your goals. You're doing great, and I'm rooting for you!\""
+            },
+            {
+                "role": "user",
+                "content": "Summarize my goals."
+            },
+            {
+                "role": "assistant",
+                "content": "Based on the data, you have three goals:\n\n1. **Exercise 3 times a week**: You aim to go for a 30-minute walk or jog every Monday, Wednesday, and Friday.\n2. **Read one book per month**: You want to finish at least one non-fiction book related to personal development by the end of the year (2025-12-31).\n3. **Practice mindfulness daily**: You've already completed this goal, as you've meditated for 10 minutes each morning until June 30th, 2025.\n\nHow do these goals currently align with your priorities and progress?"
+            },
+            {
+                "role": "user",
+                "content": "What's my recent mood trend?"
+            },
+            {
+                "role": "assistant",
+                "content": "Based on your recent mood tracker entries, it seems like you've been experiencing a mix of emotions. Here's a summary:\n\n* On July 20th, you felt happy, with notes mentioning a great weekend with friends.\n* On July 22nd, you felt neutral, with notes about being busy at work and feeling okay.\n* On July 24th, you felt stressed, with notes about a difficult conversation with your manager and feeling discouraged.\n* On July 25th, you felt calm, with notes about finishing a big project and feeling relieved and peaceful.\n* And most recently, on July 26th, you felt energized, with notes about waking up feeling refreshed and ready for the day!\n\nIt looks like you've been experiencing some ups and downs, but overall, your mood seems to be shifting towards more positive emotions. What do you think might be contributing to this trend?"
+            },
+            {
+                "role": "user",
+                "content": "How can I improve my well-being?"
+            },
+            {
+                "role": "assistant",
+                "content": "Based on your recent journal entries and mood tracker, it seems like you've been experiencing some challenges at work and feeling overwhelmed. Here are a few suggestions that might help improve your well-being:\n\n1. **Prioritize self-care**: Remember to take breaks and practice self-care. Whether it's taking a walk, reading a book, or simply taking a few deep breaths, make time for activities that bring you joy and relaxation.\n2. **Re-evaluate your task list**: Your recent journal entry on July 22nd mentioned feeling overwhelmed by your task list. Take some time to review your tasks and prioritize the most important ones. Break down larger tasks into smaller, manageable chunks, and don't be afraid to ask for help when needed.\n3. **Celebrate small victories**: Your journal entry on July 25th mentioned feeling a sense of relief and calm after completing a big project. Remember to celebrate your small victories, even if they seem insignificant. Acknowledge your accomplishments and recognize how far you've come.\n4. **Focus on mindfulness**: As you've already completed your daily mindfulness practice goal, continue to prioritize mindfulness. Pay attention to your thoughts, emotions, and physical sensations in the present moment. Mindfulness can help you stay grounded and focused, even when faced with challenges.\n5. **Seek support**: Don't be afraid to reach out to friends, family, or a therapist for support. Talking through your challenges and feelings with someone who cares about you can be incredibly helpful.\n\nRemember, taking care of your well-being is an ongoing process. Be patient, kind, and compassionate with yourself as you work through challenges and celebrate your successes.\n\nWhat do you think might be the most helpful step for you to take right now?"
+            },
+            {
+                "role": "user",
+                "content": "Tell me about my recent journal entries."
+            },
+            {
+                "role": "assistant",
+                "content": "Based on the data, your recent journal entries are:\n\n* July 22: You wrote about feeling overwhelmed at work and struggling to balance everything. You mentioned needing to remember to take breaks and not push yourself too hard.\n* July 24: You wrote about feeling stressed and discouraged after a difficult conversation with your manager. You questioned whether you're capable of handling the responsibilities.\n* July 25: You wrote about feeling a huge sense of relief and calm after completing a big project. You felt proud of yourself for pushing through and were able to relax and focus on your well-being.\n\nIt seems like you've been experiencing some challenges at work, but also acknowledging the importance of self-care and taking breaks. You've also been celebrating small victories and acknowledging your own resilience.\n\nWhat do you think you can learn from these journal entries? Are there any patterns or themes that stand out to you?"
+            },
+            {
+                "role": "user",
+                "content": "clear chat history"
+            },
+            {
+                "role": "assistant",
+                "content": "Please set the 'GROQ_API_KEY' environment variable. You can get one from console.groq.com."
+            }
+        ]
+    }
+}
